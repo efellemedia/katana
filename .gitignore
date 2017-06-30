@@ -1,0 +1,6 @@
+/vendor
+/workbench
+/.idea
+Homestead.json
+Homestead.yaml
+.env
